@@ -17,14 +17,17 @@
 //const char *ssid = "TP-LINK_3D1D";
 //const char *password = "YUEP6YMEER";
 
-const char *ssid = "eSpark Consulting";
-const char *password = "47356880";
+//const char *ssid = "eSpark Consulting";
+//const char *password = "47356880";
 
 //const char *ssid = "Devsol Pakistan";
 //const char *password = "47356880";
 
 //const char *ssid = "faizan";
 //const char *password = "90537875";
+
+const char *ssid = "HUAWEI Y6p";
+const char *password = "sofarsogood1";
 
 // Cloud IoT details.
 const char *project_id = "thermostat-289211";
