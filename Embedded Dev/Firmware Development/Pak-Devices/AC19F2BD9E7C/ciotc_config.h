@@ -20,8 +20,11 @@
 //const char *ssid = "eSpark Consulting Group";
 //const char *password = "eSparkCons";
 
-const char *ssid = "Devsol Pakistan";
-const char *password = "47356880";
+//const char *ssid = "eSpark Consulting";
+//const char *password = "47356880";
+
+const char *ssid = "StormFiber-2.4G";
+const char *password = "47779884";
 
 // Cloud IoT details.
 const char *project_id = "thermostat-289211";
