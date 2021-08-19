@@ -92,8 +92,9 @@ void setup() {
   uint32_t hi = mac >> 32;
   uint32_t lo = mac;
   sprintf(macValue, "%04X%08X", hi, lo);
-  dummy_macValue = "049358C40A24";
-  Serial.println(dummy_macValue);
+  Serial.println(macValue);
+//  dummy_macValue = "049358C40A24";
+//  Serial.println(dummy_macValue);
   
 
 

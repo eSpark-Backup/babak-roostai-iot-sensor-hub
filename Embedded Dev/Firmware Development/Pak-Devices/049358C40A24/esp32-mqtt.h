@@ -146,7 +146,7 @@ void printLocalTime()
 
 
 String getpayloadJSON(){
-  return String("{\"ChipID\"~\"")+String(dummy_macValue)+String(",")+String("\"Timestamp\"~\"")+
+  return String("{\"ChipID\"~\"")+String(macValue)+String(",")+String("\"Timestamp\"~\"")+
   String(pak_month)+String("/")+String(pak_day)+String("/")+String(pak_year)+String(" ")+ 
   String(pak_hour)+String(":")+String(pak_min)+String(":")+ String(pak_sec)+String(",")+
   String("\"Temperature\"~\"")+String(tempf)+String(",")+String("\"Humidity\"~\"")+String(humidity)+String(",")+String("\"LUX\"~\"")+String(lux)+String(",")+
